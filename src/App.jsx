@@ -5,7 +5,7 @@ function App() {
     return (
         <>
             <h1>Title</h1>
-            <p>text</p>
+            <p>текст</p>
             <Button/>
         </>
     );
